@@ -9,7 +9,7 @@ console.log("APP JS LOADED");
 // Update GITHUB_OWNER / GITHUB_REPO if you fork or rename the repo.
 // =========================================
 const GITHUB_OWNER    = "carnelltate";
-const GITHUB_REPO     = "dc3-equipment-search";
+const GITHUB_REPO     = "CDR1_energizations";
 const GITHUB_BRANCH   = "main";
 const GITHUB_FILE_PATH = "equipment_data.json";
 const GITHUB_RAW_URL  =
